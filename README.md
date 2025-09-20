@@ -4,7 +4,7 @@ This repository contains the final **poster** and **code** for the course *Conti
 
 ## 📌 Project Overview
 
-We design and evaluate a structured product—an **Express Certificate on Microsoft (MSFT)**—including:
+Design and evaluation of a structured product—an **Express Certificate on Microsoft (MSFT)**—including:
 
 * **Product Design:** payoff logic, early redemption (autocall) features, and barrier conditions.
 * **Pricing & Greeks:** **binomial tree** valuation with computation of **Delta, Gamma, Vega, Theta,** and **Rho**.
