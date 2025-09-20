@@ -8,7 +8,7 @@ We design and evaluate a structured product—an **Express Certificate on Micros
 
 * **Product Design:** payoff logic, early redemption (autocall) features, and barrier conditions.
 * **Pricing & Greeks:** **binomial tree** valuation with computation of **Delta, Gamma, Vega, Theta,** and **Rho**.
-* **Performance & Stress Testing:** historical-style and hypothetical scenarios; sensitivity to key risk drivers (spot, vol, rates, dividends).
+* **Performance & Stress Testing:** historical-style and hypothetical scenarios; sensitivity to key risk drivers (spot, vol, rates).
 
 > **Note:** This repository is intended for academic purposes. Results depend on the chosen modeling assumptions and input data.
 
